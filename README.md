@@ -1,5 +1,7 @@
 # 🎮 Video Game Sales Analysis Dashboard
 
+![Video Games Dashboard](https://github.com/Ezerioha-ifeanyi/Video-games-analysis/blob/main/Screenshot%20(614).png?raw=true)
+
 ### An Interactive Power BI Analysis of Video Game Sales, Genres, Publishers, Consoles and Regional Performance
 
 ## 1. Project Overview
